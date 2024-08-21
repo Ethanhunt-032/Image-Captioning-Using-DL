@@ -10,6 +10,7 @@ This project mainly contains two folders -
 
 # Directories
 Base Directory contains the path of the Dataset - **BASE_DIR**
+
 Working Directory contains the path of Extracted features and saved Model - **WORKING_DIR**
 
 Remaining are ppt's for theoritical concepts
