@@ -1,0 +1,2 @@
+This folder contains the train & test data -
+each image has 5 sentences of captions and we will train model to generate one senteence of caption.
